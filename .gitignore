@@ -1,0 +1,13 @@
+# Ignore the 'data' folder
+/data/
+
+# Optional: Ignore all hidden system files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore all log files
+*.log
+
+# Optional: Ignore any build or temporary files
+*.class
+*.tmp
