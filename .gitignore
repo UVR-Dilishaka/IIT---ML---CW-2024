@@ -1,5 +1,5 @@
 # Ignore the 'data' folder
-/data/
+
 /env/
 
 # Optional: Ignore all hidden system files
